@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+outputs/
+data/
+*.csv
+!examples/synthetic_transactions.csv
+*.parquet
+*.pkl
+*.joblib
+.ipynb_checkpoints/
