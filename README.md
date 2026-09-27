@@ -4,6 +4,10 @@ Based on a behavioral fraud detection project developed during an internship usi
 
 **For confidentiality, this repository includes fully synthetic example data instead of company transaction data.**
 
+### Technical Presentation
+
+[View the project presentation →](Behavioral_Fraud_Detection_Presentation.pdf)
+
 ## Project overview
 
 The project examines how transactions differ from cardholders' observed behavior across amounts, transaction frequency, IP usage, response codes, currencies and card/customer relationships. Complementary detection methods make it possible to inspect which methods identify each transaction and where their results overlap.
